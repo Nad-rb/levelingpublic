@@ -971,6 +971,3 @@ module.exports = function (client) {
 
     })
 }
-
-
-//Coded by Tomato#6966!
