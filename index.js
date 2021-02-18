@@ -8,4 +8,3 @@ client.on("ready", ()=>console.log("READY"));  //log when the bot gets ready
 const ranking = require("./ranking");         //load the ranking file
 ranking(client);                              //call the ranking file with the client
 client.login(config.TOKEN);                    //start the bot with the bot token
-//Bot coded by Tomato#6966
