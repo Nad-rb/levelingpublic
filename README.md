@@ -18,7 +18,6 @@ Edit your config vars at ```config.json```.
 
 ```json
 {
-
     "TOKEN": "your token but don't show this to another ppl",
     "PREFIX": "any Prefix you want hehe",
     "maximum_leaderboard": "10",
